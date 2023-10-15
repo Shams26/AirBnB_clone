@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def get_user_name():
   """Prompts the user for their name and returns it.
 
